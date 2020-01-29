@@ -7,8 +7,6 @@ import android.widget.Button;
 import android.widget.TextView;
 
 public class OtherActivity extends AppCompatActivity {
-    private TextView textView;
-    private Button button;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
