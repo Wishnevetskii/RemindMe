@@ -16,5 +16,6 @@ public class OtherActivity extends AppCompatActivity {
         setContentView(R.layout.activity_other);
 
         textView = findViewById(R.id.textView);
+        button = findViewById(R.id.button);
     }
 }
