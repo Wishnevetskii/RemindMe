@@ -15,6 +15,6 @@ public class OtherActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_other);
 
-
+        textView = findViewById(R.id.textView);
     }
 }
